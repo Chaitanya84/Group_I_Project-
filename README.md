@@ -9,8 +9,11 @@ Steps to contribute
 3. Configure Your GIT to use SSH because git no longer support HTTPS for pushing changes. 
 4. Clone the repo using SSH
 ![LinkImga](/images/SSHgitLink.png)
+5. Create a new Branch for your changes 
+> Preferably use <span style="color:red;">"Yourname_Feature" </span> format to name your branch.
 5. Verify if you can push your changes to this repo.
 > Best way to verify is to add your name and contact details at the end of this page and then git push the change.
+6. Finally you can create pull request.
 
 |Name|email|GitHub UserID|
 |-------|-------|--------|
